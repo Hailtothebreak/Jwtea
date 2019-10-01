@@ -1,0 +1,4 @@
+org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer=\
+  xyz.hailtothebreak.jwtea.configuration.JwtWebSecurityConfigurer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  xyz.hailtothebreak.jwtea.configuration.JwtAutoConfiguration
